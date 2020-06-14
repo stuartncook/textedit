@@ -1,0 +1,13 @@
+.ProseMirror .placeholder {
+  color: #aaa;
+  pointer-events: none;
+  height: 0;
+}
+
+.ProseMirror:focus .placeholder {
+  display: none;
+}
+
+.ProseMirror:focus {
+  outline: 0;
+}

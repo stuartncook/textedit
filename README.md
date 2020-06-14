@@ -1,0 +1,1 @@
+A simple ProseMirror editor with markdown shortcuts and menu buttons isolated to a separate React component.
